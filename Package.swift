@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "NetworkApiCall",
     platforms: [
-        .iOS(.v18),
+        .iOS(.v12),
         .macOS(.v15)
     ],
 
